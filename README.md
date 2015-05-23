@@ -14,3 +14,7 @@ from which the tidy dataset is created
 * In R, set your working directory to the "UCI HAR Dataset" folder created by the unzipping
 * Source the run_analysis.R file in R to create the TidyData.txt file in your folder
 * Please note that the zip file was downloaded at 10 AM CDT on 23 May, 2015
+
+## How the script works
+* The script is well-documented and should be easy to understand
+* Please see notes above for instructions on how to run the script on your computer
